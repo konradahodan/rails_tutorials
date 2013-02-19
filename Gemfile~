@@ -22,11 +22,11 @@ group :assets do
 end
 
 group :development do
-  gem 'rspec-rails', '2.5.0'
+  gem 'rspec-rails', '>= 2.0.0.beta17'
 end
 
 group :test do
-  gem 'rspec', '2.5.0'
+  gem 'rspec', '>= 2.0.0.beta17'
   gem 'webrat', '0.7.1'
 end
 
