@@ -1,2 +1,5 @@
-Use this README file to introduce your application and point to useful places in the API for learning more.
-Run "rake doc:app" to generate API documentation for your models, controllers, helpers, and libraries.
+# Tutoriel Ruby on Rails : Application Exemple
+
+C'est l'Application Exemple pour le
+[*Tutoriel Ruby on Rails : Apprendre Rails par l'exemple*](http://railstutorial.org/)
+par [Michael Hartl](http://michaelhartl.com/).
